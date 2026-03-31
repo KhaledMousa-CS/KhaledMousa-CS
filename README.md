@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Scientist with a strong business mindset, using data, mathematics, and technology to turn complex challenges into sustainable solutions. My expertise lies in building intelligent systems that optimize decisions, cut inefficiencies, and unlock new revenue streams.
+I'm a Strategic Systems Architect and Data Scientist dedicated to transforming abstract logic into high-integrity, sustainable solutions. My approach centers on leveraging deep analytical focus and logical rigor to strip away complexity, building transparent systems that ensure long-term stability and clarity. With a strong background in Information Systems, I view mathematics and code as vital tools for solving business challenges and delivering client value. I specialize in building automated pipelines and predictive models using Python, SQL, and Machine Learning to drive meaningful growth. My focus remains on engineering resilient architectures that provide data-driven solutions
 
 - 🎓 **Bachelor of Computer Science & AI** - University of Sadat City (Expected 2026)
 - 💼 **AI & Data Science Intern** - Digital Egypt Pioneers Initiative (DEPI/NTI)
@@ -71,21 +71,6 @@ I'm a Data Scientist with a strong business mindset, using data, mathematics, an
 
 ---
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledmousa-cs&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledmousa-cs&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khaledmousa-cs&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Professional Experience
 
 ### 🔬 AI & Data Science Intern | DEPI/NTI
@@ -126,16 +111,12 @@ I'm always interested in collaborating on data science projects, discussing AI i
 - 💼 **LinkedIn**: [linkedin.com/in/khaled-mousa-ali](https://linkedin.com/in/khaled-mousa-ali)
 - 📧 **Email**: khaledmousa.is.fcai@gmail.com
 - 📱 **Phone**: +20 109 520 3278
-- 🐙 **GitHub**: [@KHALEDFCAI](https://github.com/Khaledmosua-cs)
+- 🐙 **GitHub**: [@Khaled Mousa](https://github.com/Khaledmosua-cs)
 
 ---
 
 <div align="center">
 
 ### 💡 *"Every solution I design is judged by one metric: sustainable profit growth"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khaledmousa-cs&color=blueviolet&style=for-the-badge)
-
-⭐ **From [Khaled Mousa](https://github.com/Khaledmousa-cs)** - Building intelligent systems that drive business value
 
 </div>
